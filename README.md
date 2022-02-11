@@ -1,2 +1,2 @@
-# asdad
-Basicamente conciste en la tarea que nos marcaron para poder calcular la energía del BandGap de los materiales crecidos en clase.
+# Conciste en:
+Basicamente conciste en la tarea que nos marcaron para poder calcular la energía del BandGap de los materiales crecidos en clase. Toma datos de frecuencia y transmitancia para poder hallar el gráfico de Tauc para cada medición. Posteriormente realiza una regresión líneal sobre un intervalo de puntos de cada gráfico parap poder hallar el punto de corte con el eje $x$ obteniendo así la energía del BandGap del material en la medición.
